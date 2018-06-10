@@ -1,7 +1,6 @@
 /*
 	Arithmetic Calculation using Stack
-	
-	Author: Berk Can BALATACI
+
 										*/
 										
 #define SIZE 127
